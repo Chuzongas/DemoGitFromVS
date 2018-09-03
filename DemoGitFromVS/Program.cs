@@ -10,6 +10,8 @@ namespace DemoGitFromVS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Jeje");
+            Console.ReadLine();
         }
     }
 }
